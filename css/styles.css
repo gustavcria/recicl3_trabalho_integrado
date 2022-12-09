@@ -607,6 +607,16 @@ img.gmail{
   height: auto;
 }
 
+img.equipe{
+  max-width: 100%;
+  height: auto;
+}
+
+img.catadores{
+  max-width: 80%;
+  height: auto;
+}
+
 .img-fluid {
   max-width: 80%;
   height: auto;
